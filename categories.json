@@ -1,0 +1,10 @@
+﻿[
+  {"id":"Science","label":"Bilim","description":"Uzay, fizik ve temel bilimler","icon":"science","color":"mint"},
+  {"id":"Mathematics","label":"Matematik ve Mantık","description":"Sayılar, şekiller ve akıl yürütme","icon":"calculator","color":"sand"},
+  {"id":"Technology","label":"Teknoloji","description":"Bilgisayarlar ve dijital dünya","icon":"chip","color":"lavender"},
+  {"id":"Geography","label":"Coğrafya","description":"Dünya, ülkeler ve Türkiye","icon":"globe","color":"peach"},
+  {"id":"History","label":"Tarih","description":"Uygarlıklar ve geçmişten dönüm noktaları","icon":"history","color":"sand"},
+  {"id":"Arts & Culture","label":"Sanat ve Edebiyat","description":"Resim, müzik, kitaplar ve kültür","icon":"palette","color":"pink"},
+  {"id":"Nature","label":"Doğa ve Çevre","description":"Canlılar, ekosistemler ve gezegenimiz","icon":"leaf","color":"mint"},
+  {"id":"General Knowledge","label":"Genel Kültür","description":"Günlük yaşamdan farklı bilgiler","icon":"book","color":"blue"}
+]

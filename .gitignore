@@ -1,0 +1,18 @@
+﻿.venv/
+.idea/
+__pycache__/
+.pytest_cache/
+data/
+*.log
+node_modules/
+artifacts/
+
+# Yerel ortam ayarları ve kimlik bilgileri
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python tarafından oluşturulan dosyalar
+*.py[cod]

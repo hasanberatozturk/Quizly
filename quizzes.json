@@ -1,0 +1,1026 @@
+[
+  {
+    "id": "science",
+    "title": "Biraz bilim, bolca merak",
+    "description": "Küçücük atomlardan gökyüzündeki yıldızlara. Bakalım neler biliyorsun?",
+    "category": "Science",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "text": "Hangi gezegen Kızıl Gezegen olarak bilinir?",
+        "options": [
+          "Venüs",
+          "Mars",
+          "Jüpiter",
+          "Merkür"
+        ],
+        "correct": 1,
+        "explanation": "Mars yüzeyindeki demir oksit, gezegene kızılımsı rengini verir."
+      },
+      {
+        "text": "Altının kimyasal simgesi nedir?",
+        "options": [
+          "Ag",
+          "Fe",
+          "Au",
+          "Gd"
+        ],
+        "correct": 2,
+        "explanation": "Au simgesi, Latince altın anlamına gelen aurum sözcüğünden gelir."
+      },
+      {
+        "text": "Bitkiler fotosentez sırasında hangi gazı alır?",
+        "options": [
+          "Oksijen",
+          "Azot",
+          "Hidrojen",
+          "Karbondioksit"
+        ],
+        "correct": 3,
+        "explanation": "Bitkiler, güneş ışığının enerjisiyle karbondioksit ve suyu kullanarak şeker üretir."
+      },
+      {
+        "text": "Gezegenleri Güneş çevresindeki yörüngelerinde tutan kuvvet hangisidir?",
+        "options": [
+          "Kütle çekimi",
+          "Manyetizma",
+          "Sürtünme",
+          "Kaldırma kuvveti"
+        ],
+        "correct": 0,
+        "explanation": "Kütle çekimi, kütlelerin birbirini çekmesini sağlar ve gezegenleri yörüngelerinde tutar."
+      },
+      {
+        "text": "İnsan hücresindeki DNA moleküllerinin büyük bölümü nerede bulunur?",
+        "options": [
+          "Hücre zarı",
+          "Çekirdek",
+          "Sitoplazma",
+          "Ribozom"
+        ],
+        "correct": 1,
+        "explanation": "İnsan DNA moleküllerinin büyük bölümü çekirdekte bulunur. Mitokondrilerde de az miktarda DNA vardır."
+      }
+    ]
+  },
+  {
+    "id": "technology",
+    "title": "Bir yazılımcı gibi düşün",
+    "description": "Dijital dünyadaki bilgini adım adım sına.",
+    "category": "Technology",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "text": "HTTP 404 durum kodu ne anlama gelir?",
+        "options": [
+          "Başarılı",
+          "Bulunamadı",
+          "Sunucu hatası",
+          "Yetkisiz"
+        ],
+        "correct": 1,
+        "explanation": "404, sunucunun istenen kaynağı bulamadığını belirtir."
+      },
+      {
+        "text": "Python dilinde hangi veri türü benzersiz değerleri tutar?",
+        "options": [
+          "list",
+          "tuple",
+          "set",
+          "str"
+        ],
+        "correct": 2,
+        "explanation": "set, birbirinden farklı öğelerden oluşan bir kümedir."
+      },
+      {
+        "text": "HTML temel olarak neyi tanımlar?",
+        "options": [
+          "Veritabanı sorgularını",
+          "Ağ rotalarını",
+          "Sayfa yapısını",
+          "Sunucu süreçlerini"
+        ],
+        "correct": 2,
+        "explanation": "HTML, web içeriğinin yapısını ve anlamını tanımlar."
+      },
+      {
+        "text": "İkilik sistemdeki 1010 sayısının onluk sistemdeki karşılığı nedir?",
+        "options": [
+          "8",
+          "10",
+          "12",
+          "14"
+        ],
+        "correct": 1,
+        "explanation": "İkilik sistemde 1010, onluk sistemde 8 + 2, yani 10 eder."
+      },
+      {
+        "text": "Bir sürüm kontrol sisteminin amacı nedir?",
+        "options": [
+          "Dosya değişikliklerini takip etmek",
+          "Ekran çözünürlüğünü artırmak",
+          "Tüm trafiği şifrelemek",
+          "İşletim sisteminin yerini almak"
+        ],
+        "correct": 0,
+        "explanation": "Sürüm kontrolü dosyalardaki değişiklikleri kaydeder; böylece sürümleri karşılaştırabilir ve önceki sürümlere dönebilirsin."
+      }
+    ]
+  },
+  {
+    "id": "geography",
+    "title": "Dünyayı keşfetmeye hazır mısın?",
+    "description": "Sınırları aş, yeni yerler keşfet ve dünyayı ne kadar tanıdığını gör.",
+    "category": "Geography",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "text": "Dünyanın en büyük okyanusu hangisidir?",
+        "options": [
+          "Atlas Okyanusu",
+          "Hint Okyanusu",
+          "Arktik Okyanusu",
+          "Büyük Okyanus"
+        ],
+        "correct": 3,
+        "explanation": "Büyük Okyanus, diğer adıyla Pasifik, dünyanın en büyük ve en derin okyanusudur."
+      },
+      {
+        "text": "Japonya’nın başkenti neresidir?",
+        "options": [
+          "Kyoto",
+          "Osaka",
+          "Tokyo",
+          "Seul"
+        ],
+        "correct": 2,
+        "explanation": "Japonya’nın başkenti Tokyo’dur. Kyoto ise yüzyıllar boyunca başkentlik yapmıştır."
+      },
+      {
+        "text": "Sahra Çölü hangi kıtadadır?",
+        "options": [
+          "Asya",
+          "Afrika",
+          "Avustralya",
+          "Güney Amerika"
+        ],
+        "correct": 1,
+        "explanation": "Sahra Çölü, Kuzey Afrika’nın büyük bir bölümünü kaplar."
+      },
+      {
+        "text": "İstanbul Boğazı’nın iki yakasında yer alan şehir hangisidir?",
+        "options": [
+          "Atina",
+          "Kahire",
+          "İstanbul",
+          "Roma"
+        ],
+        "correct": 2,
+        "explanation": "İstanbul, boğazın Avrupa ve Asya yakalarına yayılır."
+      },
+      {
+        "text": "Machu Picchu hangi ülkededir?",
+        "options": [
+          "Peru",
+          "Meksika",
+          "Şili",
+          "Brezilya"
+        ],
+        "correct": 0,
+        "explanation": "Machu Picchu, Peru’daki And Dağları’nda yer alan bir İnka yerleşimidir."
+      }
+    ]
+  },
+  {
+    "id": "culture",
+    "title": "Yaratıcılığın izinde",
+    "description": "Sanat, kitaplar, müzik ve hayal gücü arasında renkli bir yolculuk.",
+    "category": "Arts & Culture",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "text": "Yıldızlı Gece tablosunu kim yapmıştır?",
+        "options": [
+          "Claude Monet",
+          "Vincent van Gogh",
+          "Pablo Picasso",
+          "Salvador Dalí"
+        ],
+        "correct": 1,
+        "explanation": "Vincent van Gogh, Yıldızlı Gece tablosunu 1889 yılında yapmıştır."
+      },
+      {
+        "text": "Gurur ve Önyargı romanının yazarı kimdir?",
+        "options": [
+          "Jane Austen",
+          "Emily Brontë",
+          "Virginia Woolf",
+          "Mary Shelley"
+        ],
+        "correct": 0,
+        "explanation": "Jane Austen’ın Gurur ve Önyargı romanı 1813 yılında yayımlanmıştır."
+      },
+      {
+        "text": "Standart bir kemanın kaç teli vardır?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correct": 1,
+        "explanation": "Standart kemanın sol, re, la ve mi notalarına akort edilen dört teli vardır."
+      },
+      {
+        "text": "Claude Monet hangi sanat akımıyla tanınır?",
+        "options": [
+          "Kübizm",
+          "Sürrealizm",
+          "Empresyonizm",
+          "Pop art"
+        ],
+        "correct": 2,
+        "explanation": "Monet, ışık ve renk üzerine çalışmalarıyla tanınan önemli empresyonist ressamlardandır."
+      },
+      {
+        "text": "Japon şiir türü haiku, İngilizce çevirilerde genellikle kaç dizeyle sunulur?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correct": 1,
+        "explanation": "Haikular, İngilizcede geleneksel olarak üç dize halinde sunulur."
+      }
+    ]
+  },
+  {
+    "id": "history",
+    "title": "Zamanda kısa bir yolculuk",
+    "description": "Büyük fikirler, eski uygarlıklar ve dünyayı değiştiren anlar.",
+    "category": "History",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "text": "Apollo 11, insanları Ay’a hangi yıl indirdi?",
+        "options": [
+          "1959",
+          "1965",
+          "1969",
+          "1972"
+        ],
+        "correct": 2,
+        "explanation": "Neil Armstrong ve Buzz Aldrin, Temmuz 1969’da Ay’a indi."
+      },
+      {
+        "text": "Gize piramitlerini hangi uygarlık inşa etti?",
+        "options": [
+          "Antik Mısırlılar",
+          "Antik Romalılar",
+          "İnkalar",
+          "Vikingler"
+        ],
+        "correct": 0,
+        "explanation": "Gize piramitleri, Mısır’ın Eski Krallık döneminde inşa edilmiştir."
+      },
+      {
+        "text": "Rönesans esas olarak hangi ülkede başladı?",
+        "options": [
+          "Fransa",
+          "Almanya",
+          "İspanya",
+          "İtalya"
+        ],
+        "correct": 3,
+        "explanation": "Floransa gibi İtalyan şehirleri, Rönesans’ın ilk merkezleri arasındaydı."
+      },
+      {
+        "text": "Berlin Duvarı hangi yıl yıkılmaya başladı?",
+        "options": [
+          "1979",
+          "1989",
+          "1991",
+          "1999"
+        ],
+        "correct": 1,
+        "explanation": "Berlin Duvarı’ndaki geçişler 9 Kasım 1989’da açıldı."
+      },
+      {
+        "text": "15. yüzyıl Avrupa’sında hareketli harflerle baskı sistemiyle kim tanınır?",
+        "options": [
+          "Isaac Newton",
+          "Galileo Galilei",
+          "Johannes Gutenberg",
+          "Leonardo da Vinci"
+        ],
+        "correct": 2,
+        "explanation": "Gutenberg, Avrupa’da kullanışlı bir hareketli harf baskı sistemi geliştirmiştir."
+      }
+    ]
+  },
+  {
+    "id": "general",
+    "title": "Her konudan biraz",
+    "description": "Günlük hayattan keyifli bilgilerle merakını canlı tut.",
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "text": "Bir altıgenin kaç kenarı vardır?",
+        "options": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "correct": 1,
+        "explanation": "Altıgen, altı kenarı olan bir çokgendir."
+      },
+      {
+        "text": "Ekmek hamurunun kabarmasını hangi malzeme sağlar?",
+        "options": [
+          "Tuz",
+          "Yağ",
+          "Maya",
+          "Su"
+        ],
+        "correct": 2,
+        "explanation": "Maya, fermantasyon sırasında karbondioksit üretir ve hamurun kabarmasını sağlar."
+      },
+      {
+        "text": "Standart bir satranç tahtasında kaç kare vardır?",
+        "options": [
+          "32",
+          "48",
+          "64",
+          "100"
+        ],
+        "correct": 2,
+        "explanation": "Satranç tahtası 8 satır ve 8 sütundan oluşur: toplam 64 kare."
+      },
+      {
+        "text": "Sıcaklığı hangi alet ölçer?",
+        "options": [
+          "Barometre",
+          "Termometre",
+          "Pusula",
+          "Anemometre"
+        ],
+        "correct": 1,
+        "explanation": "Termometre sıcaklığı, barometre ise hava basıncını ölçer."
+      },
+      {
+        "text": "Yaşayan en büyük kara hayvanı hangisidir?",
+        "options": [
+          "Zürafa",
+          "Su aygırı",
+          "Beyaz gergedan",
+          "Afrika savan fili"
+        ],
+        "correct": 3,
+        "explanation": "Afrika savan fili, yaşayan en büyük kara hayvanıdır."
+      }
+    ]
+  },
+  {
+    "id": "science-space",
+    "title": "Gökyüzünün ötesinde",
+    "description": "Uzayı ve yaşadığımız gezegeni beş yeni soruyla keşfet.",
+    "category": "Science",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "text": "Güneş hangi gök cismi türüne aittir?",
+        "options": [
+          "Gezegen",
+          "Uydu",
+          "Yıldız",
+          "Kuyruklu yıldız"
+        ],
+        "correct": 2,
+        "explanation": "Güneş, çekirdeğinde nükleer füzyon gerçekleşen bir yıldızdır."
+      },
+      {
+        "text": "Güneş Sistemi’nin en büyük gezegeni hangisidir?",
+        "options": [
+          "Dünya",
+          "Satürn",
+          "Neptün",
+          "Jüpiter"
+        ],
+        "correct": 3,
+        "explanation": "Jüpiter, Güneş Sistemi’nin en büyük gezegenidir."
+      },
+      {
+        "text": "Dünya’nın doğal uydusu hangisidir?",
+        "options": [
+          "Ay",
+          "Mars",
+          "Venüs",
+          "Güneş"
+        ],
+        "correct": 0,
+        "explanation": "Ay, Dünya’nın doğal uydusudur."
+      },
+      {
+        "text": "Güneş ışığının Dünya’ya ulaşması yaklaşık kaç dakika sürer?",
+        "options": [
+          "1",
+          "8",
+          "60",
+          "120"
+        ],
+        "correct": 1,
+        "explanation": "Güneş ışığı Dünya’ya yaklaşık 8 dakika 20 saniyede ulaşır."
+      },
+      {
+        "text": "Dünya atmosferinde en çok bulunan gaz hangisidir?",
+        "options": [
+          "Oksijen",
+          "Karbondioksit",
+          "Azot",
+          "Helyum"
+        ],
+        "correct": 2,
+        "explanation": "Atmosferin yaklaşık yüzde 78’i azottan oluşur."
+      }
+    ]
+  },
+  {
+    "id": "technology-web",
+    "title": "Dijital dünyanın temelleri",
+    "description": "Web sayfaları, güvenli bağlantılar ve veriyle ilgili temel kavramlar.",
+    "category": "Technology",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "text": "Web sayfasının görünümünü düzenlemek için hangi dil kullanılır?",
+        "options": [
+          "SQL",
+          "CSS",
+          "Python",
+          "Bash"
+        ],
+        "correct": 1,
+        "explanation": "CSS, web sayfalarının renklerini, yerleşimini ve görsel stilini tanımlar."
+      },
+      {
+        "text": "HTTPS bağlantısı, HTTP bağlantısına hangi temel korumayı ekler?",
+        "options": [
+          "Daha büyük ekran",
+          "Sınırsız depolama",
+          "İletişimin şifrelenmesi",
+          "Otomatik yedekleme"
+        ],
+        "correct": 2,
+        "explanation": "HTTPS, istemci ile sunucu arasındaki iletişimi TLS kullanarak şifreler."
+      },
+      {
+        "text": "Bir kaynağı okumak için genellikle hangi HTTP yöntemi kullanılır?",
+        "options": [
+          "GET",
+          "DELETE",
+          "PATCH",
+          "POST"
+        ],
+        "correct": 0,
+        "explanation": "GET, bir kaynağın temsilini istemek için kullanılan HTTP yöntemidir."
+      },
+      {
+        "text": "İlişkisel veritabanlarında sorgu yazmak için kullanılan dil hangisidir?",
+        "options": [
+          "HTML",
+          "CSS",
+          "SVG",
+          "SQL"
+        ],
+        "correct": 3,
+        "explanation": "SQL, ilişkisel veritabanlarındaki verileri sorgulamak ve yönetmek için kullanılır."
+      },
+      {
+        "text": "Python dilinde 7 değeri hangi temel veri türündedir?",
+        "options": [
+          "str",
+          "int",
+          "list",
+          "bool"
+        ],
+        "correct": 1,
+        "explanation": "Ondalık kısmı olmayan 7, Python dilinde int yani tam sayı türündedir."
+      }
+    ]
+  },
+  {
+    "id": "geography-turkey",
+    "title": "Türkiye’yi ne kadar tanıyorsun?",
+    "description": "Şehirlerden göllere, ülkemizin coğrafyasına küçük bir yolculuk.",
+    "category": "Geography",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "text": "Türkiye’nin başkenti hangi şehirdir?",
+        "options": [
+          "İstanbul",
+          "İzmir",
+          "Ankara",
+          "Bursa"
+        ],
+        "correct": 2,
+        "explanation": "Ankara, Türkiye Cumhuriyeti’nin başkentidir."
+      },
+      {
+        "text": "Türkiye, okul coğrafyasında kaç coğrafi bölgeye ayrılır?",
+        "options": [
+          "5",
+          "6",
+          "8",
+          "7"
+        ],
+        "correct": 3,
+        "explanation": "Türkiye yedi coğrafi bölgeye ayrılır."
+      },
+      {
+        "text": "Türkiye’nin yüzölçümü bakımından en büyük gölü hangisidir?",
+        "options": [
+          "Van Gölü",
+          "Tuz Gölü",
+          "Beyşehir Gölü",
+          "Eğirdir Gölü"
+        ],
+        "correct": 0,
+        "explanation": "Van Gölü, Türkiye’nin yüzölçümü bakımından en büyük gölüdür."
+      },
+      {
+        "text": "Tamamı Türkiye sınırları içinde kalan en uzun akarsu hangisidir?",
+        "options": [
+          "Fırat",
+          "Kızılırmak",
+          "Dicle",
+          "Sakarya"
+        ],
+        "correct": 1,
+        "explanation": "Kızılırmak, tamamı Türkiye sınırları içinde kalan en uzun akarsudur."
+      },
+      {
+        "text": "Türkiye’nin en yüksek dağı hangisidir?",
+        "options": [
+          "Erciyes",
+          "Uludağ",
+          "Ağrı Dağı",
+          "Kaçkar"
+        ],
+        "correct": 2,
+        "explanation": "Ağrı Dağı, 5.137 metre yüksekliğiyle Türkiye’nin en yüksek dağıdır."
+      }
+    ]
+  },
+  {
+    "id": "history-anatolia",
+    "title": "Anadolu’dan izler",
+    "description": "Eski uygarlıklardan yakın tarihe uzanan beş soru.",
+    "category": "History",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "text": "Göbeklitepe hangi ilimizdedir?",
+        "options": [
+          "Çorum",
+          "Konya",
+          "Şanlıurfa",
+          "İzmir"
+        ],
+        "correct": 2,
+        "explanation": "Göbeklitepe, Şanlıurfa’da bulunan tarih öncesi bir yerleşim ve anıtsal yapı alanıdır."
+      },
+      {
+        "text": "Hititlerin başkenti hangi antik kenttir?",
+        "options": [
+          "Efes",
+          "Hattuşa",
+          "Troya",
+          "Bergama"
+        ],
+        "correct": 1,
+        "explanation": "Hattuşa, Hitit İmparatorluğu’nun başkentiydi. Kalıntıları Çorum’un Boğazkale ilçesindedir."
+      },
+      {
+        "text": "Türkiye Cumhuriyeti hangi yıl ilan edildi?",
+        "options": [
+          "1920",
+          "1921",
+          "1922",
+          "1923"
+        ],
+        "correct": 3,
+        "explanation": "Cumhuriyet, 29 Ekim 1923’te ilan edilmiştir."
+      },
+      {
+        "text": "Kadeş Antlaşması hangi iki uygarlık arasında yapılmıştır?",
+        "options": [
+          "Hititler ve Mısırlılar",
+          "Romalılar ve Yunanlar",
+          "Sümerler ve İnkalar",
+          "Persler ve Vikingler"
+        ],
+        "correct": 0,
+        "explanation": "Kadeş Antlaşması, Hititler ile Antik Mısır arasında yapılmıştır."
+      },
+      {
+        "text": "Türkiye Büyük Millet Meclisi hangi şehirde açılmıştır?",
+        "options": [
+          "İstanbul",
+          "Ankara",
+          "Sivas",
+          "Erzurum"
+        ],
+        "correct": 1,
+        "explanation": "Türkiye Büyük Millet Meclisi, 23 Nisan 1920’de Ankara’da açılmıştır."
+      }
+    ]
+  },
+  {
+    "id": "culture-literature",
+    "title": "Kitaplar ve sahneler",
+    "description": "Edebiyat ve müziğin tanıdık isimleriyle bilgini sına.",
+    "category": "Arts & Culture",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "text": "Don Kişot romanının yazarı kimdir?",
+        "options": [
+          "Victor Hugo",
+          "Charles Dickens",
+          "Miguel de Cervantes",
+          "Lev Tolstoy"
+        ],
+        "correct": 2,
+        "explanation": "Don Kişot, İspanyol yazar Miguel de Cervantes’in romanıdır."
+      },
+      {
+        "text": "Hamlet adlı oyunu kim yazmıştır?",
+        "options": [
+          "William Shakespeare",
+          "Molière",
+          "Anton Çehov",
+          "Bertolt Brecht"
+        ],
+        "correct": 0,
+        "explanation": "Hamlet, William Shakespeare’in trajedilerinden biridir."
+      },
+      {
+        "text": "İstiklal Marşı’nın şairi kimdir?",
+        "options": [
+          "Yahya Kemal Beyatlı",
+          "Nazım Hikmet",
+          "Orhan Veli Kanık",
+          "Mehmet Akif Ersoy"
+        ],
+        "correct": 3,
+        "explanation": "İstiklal Marşı’nın sözlerini Mehmet Akif Ersoy yazmıştır."
+      },
+      {
+        "text": "Viyolonsel hangi çalgı ailesindedir?",
+        "options": [
+          "Vurmalı",
+          "Yaylı",
+          "Üflemeli",
+          "Elektronik"
+        ],
+        "correct": 1,
+        "explanation": "Viyolonsel, yayla çalınan telli çalgılar ailesindedir."
+      },
+      {
+        "text": "Klasik bir sone kaç dizeden oluşur?",
+        "options": [
+          "8",
+          "12",
+          "14",
+          "16"
+        ],
+        "correct": 2,
+        "explanation": "Sone, klasik biçiminde 14 dizeden oluşan bir şiir türüdür."
+      }
+    ]
+  },
+  {
+    "id": "general-daily",
+    "title": "Günlük hayatın küçük bilgileri",
+    "description": "Ölçülerden simgelere, her gün karşımıza çıkan bilgiler.",
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "text": "Bir saat kaç dakikadır?",
+        "options": [
+          "30",
+          "45",
+          "60",
+          "90"
+        ],
+        "correct": 2,
+        "explanation": "Bir saat 60 dakikadan oluşur."
+      },
+      {
+        "text": "Bir kilogram kaç gramdır?",
+        "options": [
+          "10",
+          "100",
+          "500",
+          "1000"
+        ],
+        "correct": 3,
+        "explanation": "Kilo ön eki bin anlamına gelir; bir kilogram 1000 gramdır."
+      },
+      {
+        "text": "Bir pusulanın kuzeyi gösteren ucu temel olarak hangi yönü bulmaya yarar?",
+        "options": [
+          "Kuzey",
+          "Güney",
+          "Doğu",
+          "Batı"
+        ],
+        "correct": 0,
+        "explanation": "Pusula, Dünya’nın manyetik alanından yararlanarak manyetik kuzeyi gösterir."
+      },
+      {
+        "text": "Olimpiyat simgesinde kaç halka bulunur?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "correct": 1,
+        "explanation": "Olimpiyat simgesinde birbirine bağlı beş halka vardır."
+      },
+      {
+        "text": "Trafik ışığında hangi renk durmayı ifade eder?",
+        "options": [
+          "Yeşil",
+          "Mavi",
+          "Kırmızı",
+          "Beyaz"
+        ],
+        "correct": 2,
+        "explanation": "Kırmızı trafik ışığı durmayı ifade eder."
+      }
+    ]
+  },
+  {
+    "id": "math-basics",
+    "title": "Sayılarla küçük bir egzersiz",
+    "description": "Yüzdeler, kesirler ve temel işlemlerle zihnini çalıştır.",
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "text": "200 sayısının yüzde 15’i kaçtır?",
+        "options": [
+          "15",
+          "20",
+          "30",
+          "45"
+        ],
+        "correct": 2,
+        "explanation": "200 × 15 / 100 işleminin sonucu 30’dur."
+      },
+      {
+        "text": "3/4 kesrinin yüzde olarak karşılığı nedir?",
+        "options": [
+          "%25",
+          "%50",
+          "%60",
+          "%75"
+        ],
+        "correct": 3,
+        "explanation": "3 ÷ 4 = 0,75 olduğu için 3/4 kesri yüzde 75’e eşittir."
+      },
+      {
+        "text": "Kenarları 8 cm ve 5 cm olan dikdörtgenin çevresi kaç cm’dir?",
+        "options": [
+          "26",
+          "13",
+          "40",
+          "20"
+        ],
+        "correct": 0,
+        "explanation": "Dikdörtgenin çevresi 2 × (8 + 5) = 26 cm’dir."
+      },
+      {
+        "text": "Aşağıdaki sayılardan hangisi asaldır?",
+        "options": [
+          "21",
+          "25",
+          "27",
+          "29"
+        ],
+        "correct": 3,
+        "explanation": "29’un yalnızca 1 ve 29 olmak üzere iki pozitif böleni vardır."
+      },
+      {
+        "text": "2’nin beşinci kuvveti kaçtır?",
+        "options": [
+          "10",
+          "16",
+          "32",
+          "64"
+        ],
+        "correct": 2,
+        "explanation": "2 × 2 × 2 × 2 × 2 = 32’dir."
+      }
+    ]
+  },
+  {
+    "id": "math-logic",
+    "title": "Mantığın izinden git",
+    "description": "Örüntüler, olasılıklar ve akıl yürütmeyle beş kısa bulmaca.",
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "text": "1, 4, 9, 16 dizisinde aynı kurala göre sıradaki sayı kaçtır?",
+        "options": [
+          "20",
+          "25",
+          "32",
+          "36"
+        ],
+        "correct": 1,
+        "explanation": "Dizi, 1², 2², 3² ve 4² sayılarından oluşur. Sıradaki sayı 5² = 25’tir."
+      },
+      {
+        "text": "Üç kişi birbirleriyle birer kez el sıkışırsa toplam kaç el sıkışma olur?",
+        "options": [
+          "3",
+          "4",
+          "6",
+          "9"
+        ],
+        "correct": 0,
+        "explanation": "Her kişi çifti bir kez el sıkışır. Üç kişi arasında üç farklı çift vardır."
+      },
+      {
+        "text": "Bugün çarşambaysa 10 gün sonra hangi gün olur?",
+        "options": [
+          "Perşembe",
+          "Cuma",
+          "Cumartesi",
+          "Pazar"
+        ],
+        "correct": 2,
+        "explanation": "Yedi gün sonra yine çarşamba olur. Üç gün daha ilerleyince cumartesiye ulaşılır."
+      },
+      {
+        "text": "Tüm kediler memeliyse ve Pamuk bir kediyse hangi sonuç kesin doğrudur?",
+        "options": [
+          "Pamuk bir kuştur",
+          "Tüm memeliler kedidir",
+          "Pamuk uçamaz",
+          "Pamuk bir memelidir"
+        ],
+        "correct": 3,
+        "explanation": "Pamuk kedi olduğu ve bütün kediler memeli olduğu için Pamuk da memelidir. Diğer sonuçlar verilen öncüllerden çıkmaz."
+      },
+      {
+        "text": "Adil altı yüzlü bir zar atıldığında çift sayı gelme olasılığı nedir?",
+        "options": [
+          "1/6",
+          "1/2",
+          "2/3",
+          "1"
+        ],
+        "correct": 1,
+        "explanation": "Çift sonuçlar 2, 4 ve 6’dır. Altı eş olasılıklı sonucun üçü çift olduğundan olasılık 3/6 = 1/2’dir."
+      }
+    ]
+  },
+  {
+    "id": "nature-life",
+    "title": "Canlıların dünyası",
+    "description": "Hayvanları, bitkileri ve doğadaki yaşamı yakından tanı.",
+    "category": "Nature",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "text": "Ahtapotun kaç kolu vardır?",
+        "options": [
+          "6",
+          "8",
+          "10",
+          "12"
+        ],
+        "correct": 1,
+        "explanation": "Ahtapotun sekiz kolu vardır."
+      },
+      {
+        "text": "Aşağıdaki hayvanlardan hangisi memelidir?",
+        "options": [
+          "Köpek balığı",
+          "Alabalık",
+          "Yunus",
+          "Ahtapot"
+        ],
+        "correct": 2,
+        "explanation": "Yunuslar memelidir; akciğerleriyle solunum yapar ve yavrularını sütle besler."
+      },
+      {
+        "text": "Bir tırtılın kelebeğe dönüşmesi hangi süreçle açıklanır?",
+        "options": [
+          "Fotosentez",
+          "Buharlaşma",
+          "Kış uykusu",
+          "Başkalaşım"
+        ],
+        "correct": 3,
+        "explanation": "Kelebekler yumurta, larva, pupa ve ergin evrelerinden geçen bir başkalaşım yaşar."
+      },
+      {
+        "text": "Mantarlar besinlerini temel olarak nasıl elde eder?",
+        "options": [
+          "Organik maddeleri dışarıda parçalayarak emerler",
+          "Güneş ışığından doğrudan üretirler",
+          "Yalnızca sudan üretirler",
+          "Fotosentez yaparlar"
+        ],
+        "correct": 0,
+        "explanation": "Mantarlar organik maddeleri enzimlerle parçalar ve açığa çıkan besinleri emer. Fotosentez yapmazlar."
+      },
+      {
+        "text": "Arıların çiçekli bitkilere önemli katkısı hangisidir?",
+        "options": [
+          "Yaprakları boyamak",
+          "Tozlaşmaya yardımcı olmak",
+          "Toprağı dondurmak",
+          "Güneş ışığını artırmak"
+        ],
+        "correct": 1,
+        "explanation": "Arılar çiçekler arasında polen taşıyarak tozlaşmaya yardımcı olur."
+      }
+    ]
+  },
+  {
+    "id": "nature-environment",
+    "title": "Gezegenimize yakından bak",
+    "description": "Ekosistemler ve çevreyle ilgili temel kavramları keşfet.",
+    "category": "Nature",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "text": "Aşağıdakilerden hangisi yenilenebilir bir enerji kaynağıdır?",
+        "options": [
+          "Kömür",
+          "Petrol",
+          "Rüzgâr",
+          "Doğal gaz"
+        ],
+        "correct": 2,
+        "explanation": "Rüzgâr, doğal süreçlerle sürekli yenilenen bir enerji kaynağıdır."
+      },
+      {
+        "text": "Suyun sıvı halden gaz haline geçmesine ne denir?",
+        "options": [
+          "Donma",
+          "Yoğuşma",
+          "Erime",
+          "Buharlaşma"
+        ],
+        "correct": 3,
+        "explanation": "Buharlaşma, sıvı suyun su buharına dönüşmesidir."
+      },
+      {
+        "text": "Bir besin zincirinde otlar hangi gruptadır?",
+        "options": [
+          "Üreticiler",
+          "Birincil tüketiciler",
+          "İkincil tüketiciler",
+          "Ayrıştırıcılar"
+        ],
+        "correct": 0,
+        "explanation": "Otlar, fotosentezle kendi besinlerini ürettikleri için üretici grubundadır."
+      },
+      {
+        "text": "Biyolojik çeşitlilik neyi ifade eder?",
+        "options": [
+          "Yalnızca bir türün sayısını",
+          "Canlıların gen, tür ve ekosistem düzeyindeki çeşitliliğini",
+          "Yalnızca hava sıcaklığını",
+          "Sadece bir ormanın alanını"
+        ],
+        "correct": 1,
+        "explanation": "Biyolojik çeşitlilik; genetik çeşitliliği, tür çeşitliliğini ve ekosistem çeşitliliğini kapsar."
+      },
+      {
+        "text": "Aşağıdaki malzemelerden hangisi geri dönüştürülebilir?",
+        "options": [
+          "Yemek artığıyla kirlenmiş peçete",
+          "Karışık tıbbi atık",
+          "Temiz cam şişe",
+          "Kullanılmış bebek bezi"
+        ],
+        "correct": 2,
+        "explanation": "Temiz cam şişeler ayrı toplanarak geri dönüştürülebilir. Yerel toplama kurallarına da uyulmalıdır."
+      }
+    ]
+  }
+]
